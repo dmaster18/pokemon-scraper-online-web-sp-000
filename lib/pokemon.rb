@@ -1,4 +1,4 @@
-require_relative
+require_relative '../lib/pokemon.rb'
 
 class Pokemon
   attr_accessor :id, :name, :type, :db
